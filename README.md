@@ -7,6 +7,3 @@
 - Get hints in the forms of cows and bulls!
   - Cows indicates correct number in correct position whilst Bulls indicates correct number in the wrong position.
 
-
-## Git testing
-1st commit
